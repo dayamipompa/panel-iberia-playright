@@ -1,0 +1,43 @@
+[
+    {
+        "origin": "Albacete (ABC)", 
+        "destination":"A Coruña (LCG)", 
+        "departureDate": "2024-12-13",
+        "returnDate": "2024-12-21",
+        "adults": 2, 
+        "children": 1,
+        "infants": 1 
+
+    },
+    {
+        "origin": "A Coruña (LCG)", 
+        "destination":"Albacete (ABC)", 
+        "departureDate": "2024-12-20",
+        "returnDate": "2024-12-30",
+        "adults": 2, 
+        "children": 1,
+        "infants": 0 
+
+    },
+    {
+        "origin": "Alicante (ALC)", 
+        "destination":"Almería (LEI)", 
+        "departureDate": "2024-12-13",
+        "returnDate": "2024-12-21",
+        "adults": 2, 
+        "children": 1,
+        "infants": 1 
+
+    },
+    {
+        "origin": "Almería (LEI)", 
+        "destination":"Alicante (ALC)", 
+        "departureDate": "2024-12-20",
+        "returnDate": "2024-12-30",
+        "adults": 2, 
+        "children": 0,
+        "infants": 0 
+
+    }
+        
+]
