@@ -12,11 +12,11 @@ Este proyecto utiliza Playwright para pruebas automatizadas en la web.
 
 1. Clona el repositorio:
     ```sh
-    git clone https://github.com/dayamipompa/PanelIberiaWebPlaywright-Dayami-Pompa.git
+    git clone https://github.com/dayamipompa/panel-iberia-playright.git
     ```
 2. Navega al directorio del proyecto:
     ```sh
-    cd PanelIberiaWebPlaywright-Dayami-Pompa
+    cd panel-iberia-playright
   
 3. Instala las dependencias necesarias:
    
