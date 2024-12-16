@@ -34,7 +34,7 @@ npx playwright test
 npm test
 ```
 
-Una vez que se han ejecutado todos los tests puede ver el reporte puede abrir el fichero de reporte que se crea en la carpeta **playright-report**
+Una vez que se han ejecutado todos los tests puede ver el reporte puede abrir el fichero de reporte que se crea en la carpeta **playwright-report**
 
 
 ## Estructura del Proyecto
@@ -47,7 +47,7 @@ Una vez que se han ejecutado todos los tests puede ver el reporte puede abrir el
 
 ## Notas
 
-1. Se ha creado un proyecto de test automatizados con playright para ejecutar un conjunto de test simples sobre la búsqueda de vuelos usando el lenguaje javascript.
+1. Se ha creado un proyecto de test automatizados con playwright para ejecutar un conjunto de test simples sobre la búsqueda de vuelos usando el lenguaje javascript.
 2. El requerimiento principal de la prueba técnica es, dado varios juegos de datos definidos en un fichero, para este caso se usó un fichero json, rellenar los campos correspondientes en la web de Iberia.
 3. Se han creado además algunos test que validan que se muestren los mensajes de error cuando se dejan campos vacíos y se usa el mismo valor como origen y destino. 
 4. Los tests se han separado en varios ficheros para que se ejecuten con cierto paralelismo y se minimice el tiempo de ejecución de los tests, además de ayudar en el mantenimiento de los mismos.
